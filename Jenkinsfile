@@ -23,7 +23,7 @@ pipeline {
 				    stage ('start') {
 				  
 				                 steps {
-								             echo "this is 22Q1	 branch"
+								             echo "this is master	 branch"
 								 }
 				  }
 		 }
