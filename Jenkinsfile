@@ -15,7 +15,7 @@ pipeline {
 				  
                      				                 steps { 
 									    
-								            echo "Hello this is master branch"
+								            echo "Hello this is 22Q2 branch"
 								 }
 				  }
 				  
@@ -23,7 +23,7 @@ pipeline {
 				    stage ('start') {
 				  
 				                 steps {
-								             echo "this is 22Q1	 branch"
+								             echo "this is 22Q2	 branch"
 								 }
 				  }
 		 }
