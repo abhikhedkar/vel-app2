@@ -15,7 +15,7 @@ pipeline {
 				  
                      				                 steps { 
 									    
-								            echo "Hello this is master branch"
+								            echo "Hello this is 22Q1 branch"
 								 }
 				  }
 				  
